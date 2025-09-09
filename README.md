@@ -9,7 +9,7 @@ Passionate about **Java, Spring Boot, React, and Golang** — I love building pr
 ### 🌟 About Me
 - 🌍 Based in **India**  
 - ✉️ Reach me at **[devdhama23@gmail.com](mailto:devdhama23@gmail.com)**  
-- 🧠 Currently learning: **AI-Powered Docs & Notes Apps (React + Spring Boot + MongoDB)**  
+- 🧠 Currently Working on : **AI-Powered Docs & Notes Apps (React + Spring Boot + MongoDB)**  
 - 👥 Open to collaborate on:  
   - Full-Stack projects (Java & Golang ecosystems)  
   - AI-powered real-world apps  
