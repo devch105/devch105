@@ -1,135 +1,225 @@
-Hi there 👋, I'm Dev Dhama
+<h1 align="center">Hi there 👋, I'm Dev Dhama</h1>
+<h3 align="center">Software Engineer | Backend Developer | Full-Stack Builder</h3>
 
-<h3 align="left">Software Engineer | Backend Developer | Full-Stack Builder</h3><p align="left">
+<p align="center">
 Passionate about building <b>scalable backend systems</b>, modern web applications, and AI-powered products using <b>Java, Spring Boot, Golang, React, and Cloud technologies</b>. I enjoy solving challenging problems, designing distributed systems, and turning ideas into production-ready applications.
-</p>---
+</p>
 
-🚀 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devch105&label=Profile%20Views&color=000000&style=flat" alt="devch105" />
+</p>
 
-- 💼 Software Engineer passionate about backend engineering and distributed systems.
-- 🌱 Currently learning System Design, Apache Kafka, Kubernetes, and AI Engineering.
-- 🔭 Currently building AI-powered Document Assistant (React + Spring Boot + MongoDB + LLM APIs).
-- 💡 Interested in Backend Development, Microservices, Cloud Computing, and AI Applications.
-- 🤝 Open to collaborating on Java, Golang, AI, and Full-Stack Open Source Projects.
-- 💬 Ask me about Java, Spring Boot, React, Golang, Docker, REST APIs, and System Design.
-- 📫 Reach me at devdhama23@gmail.com
+## 🚀 About Me
+
+- 💼 Software Engineer passionate about backend engineering and distributed systems
+- 🌱 Currently learning System Design, Apache Kafka, Kubernetes, and AI Engineering
+- 🔭 Currently building **AskPDF** — an AI-powered document assistant (React + Spring Boot + LLM APIs) that answers questions from uploaded PDFs with citations
+- 💡 Interested in Backend Development, Microservices, Cloud Computing, and AI Applications
+- 🤝 Open to collaborating on Java, Golang, AI, and Full-Stack open source projects
+- 💬 Ask me about Java, Spring Boot, React, Golang, Docker, REST APIs, and System Design
+
+---
+## 🚀 Featured Projects
+
+### 🔹 CloudShare
+**Secure Cloud Storage & File Sharing Platform**
+
+🌐 **Live Demo:** https://www.cloudshare.co.in/
+
+A full-stack cloud storage platform enabling secure file uploads, downloads, and public/private sharing with a credit-based premium model. The application provides encrypted storage, secure sharing, and file management capabilities. :contentReference[oaicite:0]{index=0}
+
+**Key Features**
+- 🔐 Clerk Authentication with JWT-based authorization
+- ☁️ Google Cloud Storage integration
+- 💳 Razorpay-powered credit purchase system
+- 📁 Public & private file sharing
+- ⚡ Optimized REST APIs and asynchronous file processing
+
+**Tech Stack**
+
+`React` `Spring Boot` `MongoDB` `Clerk` `Google Cloud Storage` `Razorpay`
 
 ---
 
-🚀 Featured Projects
+### 🔹 Money Manager
+**Personal Finance Management System**
 
-🔹 AI Document Assistant
+🌐 **Live Demo:** https://moneymanagerui.onrender.com/login
 
-An AI-powered application that allows users to upload documents, ask questions, summarize content, and interact with PDFs using LLMs.
+A secure finance management application that helps users track income, expenses, categories, and financial insights.
 
-Tech Stack: React • Spring Boot • MongoDB • AI APIs
+**Key Features**
 
----
+- 💰 Income & Expense Management
+- 📊 Dashboard Analytics
+- 🔐 Spring Security + JWT Authentication
+- 📧 Automated Email Reports & Reminders
+- 📄 Excel Report Generation using Apache POI
 
-🔹 GoShortly
+**Tech Stack**
 
-A production-ready URL shortening platform with authentication, analytics, QR code generation, and scalable backend architecture.
-
-Tech Stack: Spring Boot • PostgreSQL • Redis • JWT • Docker
-
----
-
-🔹 Email Writer AI
-
-AI-powered email assistant capable of generating contextual email replies using modern LLM APIs.
-
-Tech Stack: Spring Boot • React • Gemini API
+`React` `Spring Boot` `Spring Security` `MySQL`
+`JWT` `Resend` `Apache POI`
 
 ---
 
-🔹 DSA with Java
+### 🔹 GoShortly
+**Production Ready URL Shortener**
 
-Collection of Data Structures & Algorithms solutions, interview notes, and optimized Java implementations.
+🌐 **Live Demo:** https://goshortly.onrender.com/login
+
+A scalable URL shortening platform with authentication, analytics, QR code generation, and user-specific URL management.
+
+**Key Features**
+
+- 🔗 Custom URL Shortening
+- 📈 Click Analytics Dashboard
+- 📱 QR Code Generation
+- 🔐 JWT Authentication & Role-Based Access
+- 📄 Pagination & URL Management
+
+**Tech Stack**
+
+`React` `Spring Boot` `Spring Security`
+`PostgreSQL` `JWT` `Tailwind CSS`
+---
+### 🏆 Expertise
+
+✔ Backend Development (Java & Spring Boot)
+
+✔ RESTful API Development
+
+✔ Spring Security & JWT Authentication
+
+✔ Spring AI & AI Integrations
+
+✔ Microservices Architecture
+
+✔ Database Design & Optimization
+
+✔ Docker & Kubernetes
+
+✔ Apache Kafka
+
+✔ Data Structures & Algorithms
+
+✔ System Design
+
+✔ Full-Stack Development (React + Spring Boot)
 
 ---
 
-💻 Tech Stack
+### 💻 Tech Stack
 
-Backend
+#### ☕ Languages
 
-- Java
-- Spring Boot
-- Golang
-- Python
-- REST APIs
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-Frontend
+#### 🚀 Backend
 
-- React
-- Redux
-- JavaScript
-- Vite
-- Tailwind CSS
-- Material UI
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-Database
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
 
-- MySQL
-- PostgreSQL
-- MongoDB
-- Redis
+#### 🎨 Frontend
 
-DevOps & Cloud
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-- Docker
-- Kubernetes
-- Linux
-- Google Cloud
-- Git & GitHub
+#### 🗄️ Database & Cache
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+#### ⚙️ DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🧠 Core Concepts
+
+![Data Structures](https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-E34F26?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design-6A1B9A?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-FF9800?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-795548?style=for-the-badge)
 
 ---
 
-🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/devch105">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32"/>
-</a><a href="https://gitlab.com/devch105">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32"/>
-</a><a href="https://www.linkedin.com/in/dev-dhama-nh3105">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"/>
-</a>
-</p>---
-
-📈 GitHub Statistics
-
-<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=devch105&show_icons=true&count_private=true&hide_border=true"/><img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=devch105&hide_border=true"/></p>---
-
-📊 Most Used Languages
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch105&layout=compact&hide_border=true"/></p>---
-
-📌 Featured Repositories
-
-- 🚀 GoShortly — Production-ready URL Shortener
-- 🤖 EmailWriterAI — AI-powered Email Generator
-- 📄 AI Document Assistant — Chat with PDFs using AI
-- 💻 DSAwithJava — Interview Preparation Repository
+<a href="https://github.com/devch105" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="32" height="32" alt="GitHub"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/dev-dhama-nh3105" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>&nbsp;
+<a href="https://leetcode.com/u/dev_dhama_/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="32" height="32" alt="LeetCode"/></a>&nbsp;
+<a href="mailto:devdhama23@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="32" height="32" alt="Email"/></a>
+</p>
 
 ---
 
-🌱 Currently Exploring
+### 📈 GitHub Statistics
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devch105&show_icons=true&count_private=true&hide_border=true&theme=dark" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=devch105&hide_border=true&theme=dark" />
+</p>
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devch105&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dev_dhama_?ext=heatmap&theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 🌱 Currently Exploring
+
+- Spring AI & Agentic AI Applications
 - Distributed Systems
 - Apache Kafka
 - Kubernetes
-- AI Engineering
-- Microservices Architecture
 - System Design
+- Microservices Architecture
+- High-Level & Low-Level Design
+---
+
+
+### 💡 Fun Fact
+
+*"I love building software that solves real-world problems and continuously learning new technologies."*
 
 ---
 
-💡 Fun Fact
+<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
 
-«I love building software that solves real-world problems and continuously learning new technologies.»
-
----
-
-<p align="center">⭐ If you like my work, consider giving a star to my repositories!
-
-</p>
+<p align="center">📫 devdhama23@gmail.com</p>
