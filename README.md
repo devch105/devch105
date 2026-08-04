@@ -80,10 +80,12 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 
 **Tech Stack**
 
-`React` `Spring Boot` `Spring Security`
-`PostgreSQL` `JWT` `Tailwind CSS`
+`React` `Spring Boot` `Spring Security` `MySQL`
+`JWT` `TailwindCSS`
+ 
+
 ---
-### 🏆 Expertise
+## 🏆 Expertise
 
 ✔ Backend Development (Java & Spring Boot)
 
@@ -125,7 +127,6 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
