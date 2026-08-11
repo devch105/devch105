@@ -187,6 +187,9 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
     height="170"
     src="https://github-stats-extended.vercel.app/api?username=devch105&show_icons=true&hide_border=true&theme=dark"
   />
+</p>
+
+<p align="center" >
 
   <img
     height="170"
