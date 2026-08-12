@@ -1,11 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Dev Dhama</h1>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;Spring+Boot+%7C+Gin+%7C+FastAPI+%7C+DJANGO;Building+Scalable+Backend+Systems;DSA+%7C+System+Design+%7C+Problem+Solving;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-<br/>
 
-<a href="https://github.com/devch105"> <img src="https://img.shields.io/github/followers/devch105?label=Followers&style=for-the-badge&logo=github" /> </a> <a href="https://github.com/devch105?tab=repositories"> <img src="https://img.shields.io/github/stars/devch105?label=Stars&style=for-the-badge&logo=github" /> </a>
+<div align="center">
+
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=DEV%20DHAMA&fontSize=60&fontColor=ffffff&color=0:0f172a,50:1e1b4b,100:312e81&stroke=38bdf8&strokeWidth=2&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=I`am+Software+Engineer;Full+Stack+Developer;Tech:+Spring+Boot+%7C+Gin+%7C+FastAPI+%7C+DJANGO;Building+Scalable+Backend+Systems;DSA+%7C+System+Design+%7C+Problem+Solving;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
+<a href="https://github.com/devch105"> <img align="center" src="https://img.shields.io/github/followers/devch105?label=Followers&style=for-the-badge&logo=github" /> </a> <a href="https://github.com/devch105?tab=repositories"> <img align="center"  src="https://img.shields.io/github/stars/devch105?label=Stars&style=for-the-badge&logo=github" /> </a>
 
 </div>
+
+
+
 <p align="center">
 Passionate about building <b>scalable backend systems</b>, modern web applications, and AI-powered products using <b>Java, Spring Boot, Golang, React, and Cloud technologies</b>. I enjoy solving challenging problems, designing distributed systems, and turning ideas into production-ready applications.
 </p>
