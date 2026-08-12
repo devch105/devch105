@@ -183,25 +183,7 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api?username=devch105&show_icons=true&hide_border=true&theme=dark"
-  />
-</p>
-
-<p align="center" >
-
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com/?user=devch105&hide_border=true&theme=dark"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=devch105&layout=compact&hide_border=true&theme=dark"
-  />
+  <img src="https://githubcard.com/devch105.svg?d=0DOYFzhIL_Lb" alt="GitHub Statistics" />
 </p>
 ---
 
