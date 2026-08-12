@@ -170,11 +170,18 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 
 ### 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/devch105" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/dev-dhama-nh3105" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;
-<a href="https://leetcode.com/u/devch105/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="32" height="32" alt="LeetCode"/></a>&nbsp;
-<a href="mailto:devdhama23@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="32" height="32" alt="Email"/></a>
+<p align="center">
+<a href="https://github.com/devch105" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dev-dhama-nh3105" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.leetcode.com/devch105" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devch105" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:devdhama23@gmail.com">
+  <img
+    src="https://cdn.simpleicons.org/gmail/FF0000"
+    width="45"
+    height="45"
+    alt="Email"
+  />
+</a>
 </p>
 
 ---
