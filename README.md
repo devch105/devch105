@@ -201,7 +201,7 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://githubcard.com/devch105.svg?d=0DOYFzhIL_Lb" alt="GitHub Statistics" />
+  <img src="https://githubcard.com/devch105.svg?d=E2VyTeY73WgJ" alt="GitHub Statistics" />
 </p>
 ---
 
