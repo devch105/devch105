@@ -2,7 +2,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=DEV%20DHAMA&fontSize=60&fontColor=ffffff&color=0:0f172a,50:1e1b4b,100:312e81&stroke=38bdf8&strokeWidth=2&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Dev%20Dhama&fontSize=60&fontColor=ffffff&color=0:0f172a,50:1e1b4b,100:312e81&stroke=38bdf8&strokeWidth=2&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=I`am+Software+Engineer;Full+Stack+Developer;Tech:+Spring+Boot+%7C+Gin+%7C+FastAPI+%7C+DJANGO;Building+Scalable+Backend+Systems;DSA+%7C+System+Design+%7C+Problem+Solving;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
