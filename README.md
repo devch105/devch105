@@ -61,7 +61,7 @@ A secure finance management application that helps users track income, expenses,
 
 **Key Features**
 
-- 💰 Income & Expense Management
+- 💰 Income & Expense Management 
 - 📊 Dashboard Analytics
 - 🔐 Spring Security + JWT Authentication
 - 📧 Automated Email Reports & Reminders
@@ -92,7 +92,7 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 **Tech Stack**
 
 `React` `Spring Boot` `Spring Security` `MySQL`
-`JWT` `TailwindCSS`
+`JWT` `TailwindCSS` `Redis`
  
 
 ---
