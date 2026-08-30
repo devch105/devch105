@@ -239,6 +239,6 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
+<p align="center">⭐ If you like give me a star, consider giving a star to my repositories!</p>
 
 <p align="center">📫 devdhama23@gmail.com</p>
