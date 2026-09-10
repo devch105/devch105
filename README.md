@@ -207,15 +207,6 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 ---
 
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devch105&show_icons=true&theme=tokyonight&hide_border=true" alt="Dev's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch105&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -224,14 +215,6 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=devch105&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
-### 🧩 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/dev_dhama_?ext=heatmap&theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
