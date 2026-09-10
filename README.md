@@ -1,10 +1,9 @@
-
 <div align="center">
 
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Dev%20Dhama&fontSize=60&fontColor=ffffff&color=0:0f172a,50:1e1b4b,100:312e81&stroke=38bdf8&strokeWidth=2&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=I`am+Software+Engineer;Full+Stack+Developer;Tech:+Spring+Boot+%7C+Gin+%7C+FastAPI+%7C+DJANGO;Building+Scalable+Backend+Systems;DSA+%7C+System+Design+%7C+Problem+Solving;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=I'm+a+Software+Engineer;Full+Stack+Developer;Tech:+Spring+Boot+%7C+Gin+%7C+FastAPI;Building+Scalable+Backend+Systems;DSA+%7C+System+Design+%7C+Problem+Solving;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
 <a href="https://github.com/devch105"> <img align="center" src="https://img.shields.io/github/followers/devch105?label=Followers&style=for-the-badge&logo=github" /> </a> <a href="https://github.com/devch105?tab=repositories"> <img align="center"  src="https://img.shields.io/github/stars/devch105?label=Stars&style=for-the-badge&logo=github" /> </a>
 
@@ -23,6 +22,7 @@ Passionate about building <b>scalable backend systems</b>, modern web applicatio
 ## 🚀 About Me
 
 - 💼 Software Engineer passionate about backend engineering and distributed systems
+- 🟢 Open to new **Software Engineer / Java Backend / SDE-1** opportunities
 - 🌱 Currently learning System Design, Apache Kafka, Kubernetes, and AI Engineering
 - 🔭 Currently building **AskPDF** — an AI-powered document assistant (React + Spring Boot + LLM APIs) that answers questions from uploaded PDFs with citations
 - 💡 Interested in Backend Development, Microservices, Cloud Computing, and AI Applications
@@ -37,7 +37,7 @@ Passionate about building <b>scalable backend systems</b>, modern web applicatio
 
 🌐 **Live Demo:** https://www.cloudshare.co.in/
 
-A full-stack cloud storage platform enabling secure file uploads, downloads, and public/private sharing with a credit-based premium model. The application provides encrypted storage, secure sharing, and file management capabilities. :contentReference[oaicite:0]{index=0}
+A full-stack cloud storage platform enabling secure file uploads, downloads, and public/private sharing with a credit-based premium model. The application provides encrypted storage, secure sharing, and file management capabilities.
 
 **Key Features**
 - 🔐 Clerk Authentication with JWT-based authorization
@@ -69,7 +69,7 @@ A secure finance management application that helps users track income, expenses,
 
 **Tech Stack**
 
-`React` `Spring Boot` `Spring Security` `MySQL`
+`React` `Spring Boot` `Spring Security` `PostgreSQL`
 `JWT` `Resend` `Apache POI`
 
 ---
@@ -91,9 +91,18 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 
 **Tech Stack**
 
-`React` `Spring Boot` `Spring Security` `MySQL`
+`React` `Spring Boot` `Spring Security` `PostgreSQL`
 `JWT` `TailwindCSS` `Redis`
- 
+
+---
+
+### 🔸 Other Projects
+
+**Email Writer AI** — AI-powered email assistant that generates contextual, ready-to-send replies using LLM APIs.
+`Spring Boot` `React` `Gemini API`
+
+**LeetCode Progress Tracker** — Self-built spaced-repetition dashboard tracking a structured 240-problem DSA curriculum across 8+ weeks by topic, surfacing due/overdue problems for review.
+`React`
 
 ---
 ## 🏆 Expertise
@@ -184,7 +193,7 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 <p align="center">
 <a href="https://github.com/devch105" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dev-dhama-nh3105" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.leetcode.com/devch105" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devch105" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.leetcode.com/dev_dhama_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev_dhama_" height="45" width="45" /></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:devdhama23@gmail.com">
   <img
     src="https://cdn.simpleicons.org/gmail/FF0000"
@@ -198,17 +207,23 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 ---
 
 
-### 📈 GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://githubcard.com/devch105.svg?d=E2VyTeY73WgJ" alt="GitHub Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devch105&show_icons=true&theme=tokyonight&hide_border=true" alt="Dev's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devch105&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 ---
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devch105&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devch105&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=devch105&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -216,7 +231,7 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 ### 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/devch105?ext=heatmap&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/dev_dhama_?ext=heatmap&theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -239,6 +254,6 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 
 ---
 
-<p align="center">⭐ If you like give me a star, consider giving a star to my repositories!</p>
+<p align="center">⭐ If this profile helped or inspired you, consider starring my repositories!</p>
 
 <p align="center">📫 devdhama23@gmail.com</p>
