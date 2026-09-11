@@ -203,13 +203,6 @@ A scalable URL shortening platform with authentication, analytics, QR code gener
 <p align="center">
   <img src="https://githubcard.com/devch105.svg?d=E2VyTeY73WgJ" alt="GitHub Statistics" />
 </p>
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devch105&theme=github-dark&hide_border=true" />
-</p>
 
 ---
 
