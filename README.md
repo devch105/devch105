@@ -28,6 +28,7 @@ Passionate about building <b>scalable backend systems</b>, modern web applicatio
 - 💡 Interested in Backend Development, Microservices, Cloud Computing, and AI Applications
 - 🤝 Open to collaborating on Java, Golang, AI, and Full-Stack open source projects
 - 💬 Ask me about Java, Spring Boot, React, Golang, Docker, REST APIs, and System Design
+ - 📄 **[View My Resume](https://drive.google.com/file/d/1Ko3b0WEx4yFMj2zKKOd2jXnsB95oXGtq/view?ts=6aa58662)**
 
 ---
 ## 🚀 Featured Projects
