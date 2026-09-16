@@ -24,7 +24,7 @@ Passionate about building <b>scalable backend systems</b>, modern web applicatio
 
 - 💼 Software Engineer passionate about backend engineering and distributed systems
 - 🌱 Currently learning System Design, Apache Kafka, Kubernetes, and AI Engineering
-- 🔭 Currently building **AskPDF** — an AI-powered document assistant (React + Spring Boot + LLM APIs) that answers questions from uploaded PDFs with citations
+- 🔭 Currently building **DockMind** — an AI-powered document assistant (React + Spring Boot + LLM APIs) that answers questions from uploaded PDFs with citations
 - 💡 Interested in Backend Development, Microservices, Cloud Computing, and AI Applications
 - 🤝 Open to collaborating on Java, Golang, AI, and Full-Stack open source projects
 - 💬 Ask me about Java, Spring Boot, React, Golang, Docker, REST APIs, and System Design
