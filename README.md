@@ -49,7 +49,7 @@ A full-stack cloud storage platform enabling secure file uploads, downloads, and
 
 **Tech Stack**
 
-`React` `Spring Boot` `MongoDB` `Clerk` `Google Cloud Storage` `Razorpay`
+`React` `Spring Boot` `MongoDB` `ClerK` `Google Cloud Storage` `Razorpay`
 
 ---
 
