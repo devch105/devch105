@@ -34,6 +34,8 @@ Software Engineer passionate about building <b>scalable backend systems</b>, dis
 ### 🔹 GitCrawler
 **AI-Powered GitHub Repository Intelligence Platform**
 
+🌐 **Live Demo:** [GitCrawler](https://gitcralwer-ui.vercel.app/)
+
 An AI-powered platform designed to help developers explore GitHub repositories, understand codebases, and interact with repository-related information through AI-assisted workflows.
 
 **Key Technologies**
@@ -50,7 +52,6 @@ An AI-powered platform designed to help developers explore GitHub repositories, 
 - 🔎 Vector storage and similarity-search capabilities
 - 💬 Repository-focused chat workflows
 
-**Repositories:** [Frontend](https://github.com/devch105/gitcrawler-frontend) · [Backend](https://github.com/devch105/gitcrawler-backend)
 
 ---
 
