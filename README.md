@@ -25,7 +25,7 @@ Software Engineer passionate about building <b>scalable backend systems</b>, dis
 - 💡 Interested in Microservices, Cloud Computing, AI Applications, and scalable architecture
 - 🤝 Open to collaborating on Java, Golang, AI, and full-stack open-source projects
 - 💬 Ask me about Java, Spring Boot, React, Next.js, Golang, Docker, REST APIs, and System Design
-- 📄 **[View My Resume](https://drive.google.com/file/d/19XNwN4MEwhOJYcrM34nz5zxZe5CTHqpY/view?usp=drive_link)**
+- 📄 **[View My Resume](https://drive.google.com/file/d/1jGtZk3xQ5ecZtfNzVp9EeG6-kivZErxB/view?usp=drive_link)**
 
 ---
 
