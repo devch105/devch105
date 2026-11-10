@@ -196,7 +196,7 @@ A URL shortening platform featuring authentication, analytics, QR code generatio
   <a href="https://github.com/devch105" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dev-dhama-nh3105" target="_blank">
+  <a href="https://www.linkedin.com/in/devch105" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/devch105" target="_blank">
